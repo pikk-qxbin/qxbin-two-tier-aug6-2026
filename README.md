@@ -1,3 +1,7 @@
+> **Note (Aug 2026 cleanup)**  
+> This was a daily experiment. Going forward, all new sketches live in **[qxbin-experiments](https://github.com/pikk-qxbin/qxbin-experiments)**.  
+> Production code lives in the core **[qxbin](https://github.com/pikk-qxbin/qxbin)** repository.
+
 # QxBin Two-Tier Ideas — 6 Aug 2026
 
 **By Rupesh Malpani** | pikk.company | QxBin Framework
@@ -55,17 +59,12 @@ python qxbin_agent_router.py
 
 ## License
 
-Official Default QxBin License (custom MIT variant used across the entire pikk-qxbin ecosystem).
-
-Free for testing, experimentation, internal use, and building your own improvements.
-Commercial products / APIs that sell the capability carry the standard 51 % revenue share with the copyright holders.
-Enterprise / strategic deals are negotiable — reach out.
-
-See the full LICENSE in the main QxBin repositories for exact terms.
+**QxBin Source-Available License** (Apache-2.0 OR MIT + commercial terms).  
+See the main [qxbin](https://github.com/pikk-qxbin/qxbin) repository for full terms.
 
 ---
 
-Part of the pikk-qxbin vision: Democratize advanced probabilistic compute. Ship fast. Keep the incentives aligned for the people actually pushing the frontier.
+Part of the pikk-qxbin vision: Democratize advanced probabilistic compute. Ship fast. Keep the incentives aligned.
 
 Rupesh Malpani  
 pikk.company
